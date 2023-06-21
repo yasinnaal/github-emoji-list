@@ -4,14 +4,11 @@
 ![](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)
 ![GitHub Repo stars](https://img.shields.io/github/stars/yasinnaal/Github-Markdown-Cheatsheet) <br>
 
-any suggestions or feedback ! write to me [here](https://github.com/yasinnaal/yn-github-markdown-cheatsheet/issues)
+any suggestions or feedback ! write to me [here](https://github.com/yasinnaal/github-emoji-list/issues)
 
+#### Table of Contents
 
-
-Emoji
-=================
-
-Emojis to _tasks & projects_
+##  Emojis to _tasks & projects_
 
 | Emoji | Description | Markdown
 |:---:|:---|:---:|
