@@ -6,7 +6,7 @@
 
 any suggestions or feedback ! write to me [here](https://github.com/yasinnaal/github-emoji-list/issues)
 
-#### Table of Contents
+##  Table of Contents
 
 [People](#People)<br>
 [Nature](#Nature)<br>
