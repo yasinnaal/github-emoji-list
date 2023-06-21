@@ -8,6 +8,10 @@ any suggestions or feedback ! write to me [here](https://github.com/yasinnaal/gi
 
 #### Table of Contents
 
+[People](#People)<br>
+[Nature](#Nature)<br>
+
+
 ##  Emojis to _tasks & projects_
 
 | Emoji | Description | Markdown
