@@ -8,14 +8,13 @@ for any suggestions or feedback ! write to me [here](https://github.com/yasinnaa
 
 ##  Table of Contents
 
-
 [People](#People)<br>
 [Nature](#Nature)<br>
-
 [Objects](#Objects)<br>
 [Places](#Places)<br>
 [Symbols](#Symbols)<br>
 [Kaomoji](#Kaomoji)<br>
+[Special Symbols](#Special-Symbols)<br>
 
 
 ##  Emojis to _tasks & projects_
