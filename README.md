@@ -363,3 +363,5 @@ for any suggestions or feedback ! write to me [here](https://github.com/yasinnaa
 | ϐ   | ϕ   | ⁿ   | ↆ  |
 | ∴   | ∞   | ⊿   | ⊷ |
 
+---
+for any suggestions or feedback ! write to me [here](https://github.com/yasinnaal/github-emoji-list/issues)
